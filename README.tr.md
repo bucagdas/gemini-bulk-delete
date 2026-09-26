@@ -19,7 +19,7 @@ istediklerinizi işaretleyip tek seferde silebilirsiniz.
    [`bookmarklet.txt`](bookmarklet.txt) dosyasının tamamını yapıştırın.
 3. Kaydedin, tercihen yer imleri çubuğuna.
 
-İsterseniz [proje sayfasındaki](https://bucagdas.com/proje/gemini-bulk-delete/)
+İsterseniz [proje sayfasındaki](https://bucagdas.com/proje/gemini-hizli-sil/)
 hazır düğmeyi yer imleri çubuğuna sürükleyerek de kurabilirsiniz.
 
 ## Kullanım

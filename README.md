@@ -19,7 +19,7 @@ title, tick the ones you want and delete them in one go.
 3. Save it, ideally on the bookmarks bar.
 
 If you prefer, you can drag the ready-made button from the
-[project page](https://bucagdas.com/proje/gemini-bulk-delete/) to your
+[project page](https://bucagdas.com/proje/gemini-hizli-sil/) to your
 bookmarks bar instead.
 
 ## Use
